@@ -3,7 +3,7 @@ var var2
 add R1 R2 R3
 sub R1 R2 R3
 mov R1 $12
-mov R1 FLAGS
+mov R1 R2
 ld R1 var1
 st R2 var2
 mul R1 R2 R3
